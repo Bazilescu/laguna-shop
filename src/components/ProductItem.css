@@ -1,0 +1,13 @@
+.category-image {
+  height: 200px;
+}
+
+@media screen and (min-width: 600px) {
+  .category-image {
+    height: 200px;
+  }
+}
+
+.pointer:hover{
+  cursor: pointer;
+}

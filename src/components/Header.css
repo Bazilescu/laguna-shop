@@ -1,0 +1,35 @@
+.header {
+  padding: 5px 0px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.473);
+  background-color: rgba(255, 255, 255, 0.1);
+  caret-color: transparent;
+}
+.logo {
+  width: 130px;
+  height: auto;
+}
+.logo:hover {
+  transform: scale(1.02);
+  transition-duration: 0.2s;
+}
+@media screen and (max-width:350px) {
+  .logo{
+    width:110px;
+  }
+}
+.container-min-max-width {
+  min-width: 320px;
+  max-width: 1350px;
+}
+
+.number-of-products {
+  font-size: 23px;
+}
+.logout-text {
+  color: white;
+  margin: 0px;
+}
+.logout-text:hover {
+  color: lightgray;
+  cursor: pointer;
+}

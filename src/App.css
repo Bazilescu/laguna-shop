@@ -1,0 +1,29 @@
+.App {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 1)),
+    url("https://i.imgur.com/VxZL059.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  caret-color: transparent;
+}
+.category div {
+  text-align: center;
+}
+.category:hover {
+  transform: scale(1.01);
+  transition-duration: 0.2s;
+}
+
+.category img {
+  height: 85%;
+  border-radius: 25px;
+}
+
+body a {
+  text-decoration: none;
+  color: white;
+}
+body a:hover {
+  color: lightgray;
+}

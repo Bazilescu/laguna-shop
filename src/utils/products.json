@@ -1,0 +1,213 @@
+{
+    "shirts": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Hawaiian Shirt - Stripes",
+                "price": 28,
+                "currency": "$",
+                "image": "https://i.imgur.com/a263HaE.png",
+                "size": "M",
+                "colour": "White",
+                "material": "Cotton",
+                "brand": "Laguna",
+                "description": "Geometric stripes and palm trees shirt for a fresh look"
+            },
+            {
+                "id": 2,
+                "name": "Hawaiian Shirt - Palm Trees",
+                "price": 55,
+                "currency": "$",
+                "image": "https://i.imgur.com/dIC9YME.png",
+                "size": "M",
+                "colour": "Green",
+                "material": "Cotton",
+                "brand": "Laguna",
+                "description": "Feel the breeze with this 100% cotton shirt"
+            },
+            {
+                "id": 3,
+                "name": "Hawaiian Shirt - Girl",
+                "price": 35,
+                "currency": "$",
+                "image": "https://i.imgur.com/FK5StMe.png",
+                "size": "M",
+                "colour": "Red",
+                "material": "Cotton",
+                "brand": "Laguna",
+                "description": "High-quality shirt with unique hawaiian girl print"
+            }
+        ],
+        "image": "https://i.imgur.com/xEAtMMc.jpg",
+        "name": "Shirts",
+        "description": "Hawaiian beach shirts"
+    },
+    "surfboards": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Lost Surfboard",
+                "price": 95,
+                "currency": "$",
+                "image": "https://i.imgur.com/82sThvi.png",
+                "size": "6",
+                "colour": "Red",
+                "material": "Polyurethane",
+                "brand": "Lost",
+                "description": "Low-concave polyurethane Lost Surfboard"
+            },
+            {
+                "id": 5,
+                "name": "Torq Surfboard",
+                "price": 105,
+                "currency": "$",
+                "image": "https://i.imgur.com/4KJTsu9.png",
+                "size": "6",
+                "colour": "Rainbow",
+                "material": "Polyurethane",
+                "brand": "Torq",
+                "description": "High-concave polyurethane Torq Surfboard"
+            },
+            {
+                "id": 6,
+                "name": "Cannibal Surfboard",
+                "price": 160,
+                "currency": "$",
+                "image": "https://i.imgur.com/mPL0Owb.png",
+                "size": "6.1",
+                "colour": "White",
+                "material": "Polystyrene",
+                "brand": "Cannibal",
+                "description": "Polystyrene foam light formula Cannibal Surfboard"
+            }
+        ],
+        "image": "https://i.imgur.com/ryNHkCi.jpg",
+        "name": "Surfboards",
+        "description": "Surfboards - all sizes and shapes"
+    },
+    "flipflops": {
+        "items": [
+            {
+                "id": 7,
+                "name": "Flip-flops Lite",
+                "price": 15,
+                "currency": "$",
+                "image": "https://i.imgur.com/u8jk0D7.png",
+                "size": "42",
+                "colour": "Darkblue",
+                "material": "Recycled plastic",
+                "brand": "Lite",
+                "description": "Beach Lite flip-flops with star print"
+            },
+            {
+                "id": 8,
+                "name": "Flip-flops Havaianas",
+                "price": 35,
+                "currency": "$",
+                "image": "https://i.imgur.com/cg0XWPZ.png",
+                "size": "43",
+                "colour": "Red",
+                "material": "Recycled plastic",
+                "brand": "Havaianas",
+                "description": "Red flip-flops 80% recycled plastic"
+            }
+        ],
+        "image": "https://i.imgur.com/N3orH2z.jpg",
+        "name": "Flip-flops",
+        "description": "Flip-flops made from recycled sea plastics"
+    },
+    "accesories": {
+        "items": [
+            {
+                "id": 9,
+                "name": "Houston Astros Bracelet",
+                "price": 5,
+                "currency": "$",
+                "image": "https://i.imgur.com/LCBjXAX.png",
+                "size": "Universal",
+                "colour": "Multicoloured",
+                "material": "Wood",
+                "brand": "Houstoon Astros",
+                "description": "Beautiful handmade wood bracelet"
+            },
+            {
+                "id": 10,
+                "name": "Temple Mount Stone Necklace",
+                "price": 35,
+                "currency": "$",
+                "image": "https://i.imgur.com/5ftjTau.png",
+                "size": "Universal",
+                "colour": "Brown-Blue",
+                "material": "Silver",
+                "brand": "Temple Mount Stone",
+                "description": "Unisex silver necklace"
+            }
+        ],
+        "image": "https://i.imgur.com/3NYFoyg.jpg",
+        "name": "Accesories",
+        "description": "Bracelets, necklaces, rings and more!"
+    },
+    "shorts": {
+        "items": [
+            {
+                "id": 11,
+                "name": "Gradient Shorts",
+                "price": 29,
+                "currency": "$",
+                "image": "https://i.imgur.com/PgKabSx.png",
+                "size": "M",
+                "colour": "Red-Black",
+                "material": "Polyester",
+                "brand": "Blackrun",
+                "description": "Blackrun gradient shorts red-black"
+            },
+            {
+                "id": 12,
+                "name": "Stripped Shorts",
+                "price": 55,
+                "currency": "$",
+                "image": "https://i.imgur.com/ZmdL5Z1.png",
+                "size": "L",
+                "colour": "Black-White",
+                "material": "Polyester",
+                "brand": "Blackrun",
+                "description": "Blackrun stripped shorts black-white"
+            }
+        ],
+        "image": "https://i.imgur.com/oWtYi0E.jpg",
+        "name": "Shorts",
+        "description": "Confortable shorts for swimming"
+    },
+    "umbrellas": {
+        "items": [
+            {
+                "id": 13,
+                "name": "Beach umbrella - Blue & Yellow",
+                "price": 30,
+                "currency": "$",
+                "image": "https://i.imgur.com/gKTXm27.png",
+                "size": "-",
+                "colour": "Blue-Yellow",
+                "material": "Plastic",
+                "brand": "Beachbub",
+                "description": "Beach umbrella with colored stripes"
+            },
+            {
+                "id": 14,
+                "name": "Beach umbrella - Blue & Orange",
+                "price": 25,
+                "currency": "$",
+                "image": "https://i.imgur.com/fMrVYIx.png",
+                "size": "-",
+                "colour": "Orange-Blue",
+                "material": "Plastic",
+                "brand": "Beachbub",
+                "description": "Beach umbrella with colored stripes"
+            }
+        ],
+        "image": "https://i.imgur.com/3MY1zOD.jpg",
+        "name": "Umbrellas",
+        "description": "Resistent umbrellas for sun protection"
+    }
+    
+}
